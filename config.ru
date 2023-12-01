@@ -1,1 +1,1 @@
-run Proc.new { |env| ['200', {'Content-Type' => 'text/html'}, ['Hello World from Ruby!']] }
+run Proc.new { |env| ['200', {'Content-Type' => 'text/html'}, ['Hola mundo desde Itera!']] }
